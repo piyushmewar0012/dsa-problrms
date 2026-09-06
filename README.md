@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -28,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0371-sum-of-two-integers) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

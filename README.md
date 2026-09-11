@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0189-rotate-array) |
+| [0443-string-compression](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0443-string-compression) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushmewar0012/dsa-problrms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |

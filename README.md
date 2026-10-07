@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushmewar0012/dsa-problrms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/piyushmewar0012/dsa-problrms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0371-sum-of-two-integers) |
 | [3870-count-commas-in-range](https://github.com/piyushmewar0012/dsa-problrms/tree/master/3870-count-commas-in-range) |
+| [3875-construct-uniform-parity-array-i](https://github.com/piyushmewar0012/dsa-problrms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |

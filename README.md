@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushmewar0012/dsa-problrms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/piyushmewar0012/dsa-problrms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0371-sum-of-two-integers) |
+| [0877-stone-game](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0877-stone-game) |
 | [3870-count-commas-in-range](https://github.com/piyushmewar0012/dsa-problrms/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/piyushmewar0012/dsa-problrms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
@@ -98,4 +100,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushmewar0012/dsa-problrms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

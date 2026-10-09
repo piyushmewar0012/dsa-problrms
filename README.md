@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0876-middle-of-the-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/piyushmewar0012/dsa-problrms/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0877-stone-game) |
+| [2396-strictly-palindromic-number](https://github.com/piyushmewar0012/dsa-problrms/tree/master/2396-strictly-palindromic-number) |
 | [3870-count-commas-in-range](https://github.com/piyushmewar0012/dsa-problrms/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/piyushmewar0012/dsa-problrms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/piyushmewar0012/dsa-problrms/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

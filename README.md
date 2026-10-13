@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0371-sum-of-two-integers) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/piyushmewar0012/dsa-problrms/tree/master/2396-strictly-palindromic-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

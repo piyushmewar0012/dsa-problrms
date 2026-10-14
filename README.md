@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0125-valid-palindrome) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0443-string-compression) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/piyushmewar0012/dsa-problrms/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -144,4 +146,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/piyushmewar0012/dsa-problrms/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

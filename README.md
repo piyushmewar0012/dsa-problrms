@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushmewar0012/dsa-problrms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/piyushmewar0012/dsa-problrms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0905-sort-array-by-parity) |
 | [2396-strictly-palindromic-number](https://github.com/piyushmewar0012/dsa-problrms/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0088-merge-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushmewar0012/dsa-problrms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quicksort
 |  |

@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/piyushmewar0012/dsa-problrms/tree/master/2235-add-two-integers) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/piyushmewar0012/dsa-problrms/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/piyushmewar0012/dsa-problrms/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
